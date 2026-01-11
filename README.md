@@ -1,6 +1,6 @@
-# QuizMaster
+# Quiz app
 
-QuizMaster is a dynamic and engaging web-based trivia application that challenges your knowledge across a variety of categories. Built with JavaScript, HTML, and CSS, this project demonstrates modern web development techniques, including API integration, DOM manipulation, and local storage management.
+Quiz app is a dynamic and engaging web-based trivia application that challenges your knowledge across a variety of categories. Built with JavaScript, HTML, and CSS, this project demonstrates modern web development techniques, including API integration, DOM manipulation, and local storage management.
 
 ## Features
 
